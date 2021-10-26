@@ -32,5 +32,3 @@ enjoy :)
 # Credits
 
 [@D3vd](https://github.com/D3vd/Meme_Api) - the meme-api
-
-
